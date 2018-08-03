@@ -1,2 +1,2 @@
 # DI-cryptominingdetection
-PCAP files and data sets to Digital Investigation article
+PCAP files and data-sets for Digital Investigation article
