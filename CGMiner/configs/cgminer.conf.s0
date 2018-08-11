@@ -1,0 +1,1405 @@
+{
+    "pools" : [
+    {
+        "url" : "stratum+tcp://101.201.36.55:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://101.201.36.55:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://101.201.36.55:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://103.208.27.165:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://103.47.209.66:7007",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://103.47.209.66:7017",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://103.47.209.66:8088",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://104.238.236.248:27181",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://107.191.99.227:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://114.55.3.82:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://114.55.3.82:3334",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://114.55.79.171:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://114.55.79.171:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://116.211.167.195:13333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://116.211.167.195:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://116.211.168.132:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.23.117.231:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.29.47.68:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.29.47.68:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.29.47.68:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.81.183.183:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://119.81.237.168:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.55.226.251:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.130.118:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.55.196:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.55.196:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.55.196:8899",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.57.63:2142",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://120.77.61.108:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://137.74.1.208:7007",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://137.74.1.208:7017",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://137.74.1.208:8088",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://137.74.40.81:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.197.183.116:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.124.177:51777",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.246.186:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.246.186:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:3334",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:3335",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:3336",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.13:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:3334",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:3335",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:3336",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.31.14:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://138.201.60.198:51777",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.113.200:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.113.200:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.113.200:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.113.200:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.113.200:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.114.79:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.114.79:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.114.79:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.114.79:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.114.79:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.120.161:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.120.161:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.120.161:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.120.161:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.120.161:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.131.165:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.131.165:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.131.165:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.162.131.165:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.224.6.102:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.224.6.22:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.8.66:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:18888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:19999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.106:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:18888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:19999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.146:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:18888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:19999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://139.99.9.173:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://144.217.93.28:3332",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://144.217.93.28:3334",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://144.217.93.28:3335",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://144.217.93.28:3337",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://144.217.93.28:3371",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://147.135.221.69:7007",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://147.135.221.69:7017",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://147.135.221.69:8088",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://149.56.26.222:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://158.69.247.200:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://158.69.247.200:4444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://159.89.11.225:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://159.89.11.225:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://161.202.68.88:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://161.202.68.92:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:7777",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:8443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://163.172.226.131:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://165.227.126.82:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://167.114.119.172:7007",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://167.114.119.172:7017",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://167.114.119.172:8088",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://167.88.15.87:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://168.181.187.15:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.38.65.14:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.38.66.192:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.45.93.83:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.50.175.203:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.57.150.34:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://169.57.168.5:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.105.159:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.105.159:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.105.159:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.105.159:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.105.159:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.109.135:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.109.135:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.109.135:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.109.135:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.109.135:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.117.164:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.117.164:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.117.164:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.117.164:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.117.164:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.121.164:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.121.164:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.121.164:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.121.164:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.121.164:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.168.227:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.168.227:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.168.227:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.168.227:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.168.227:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.73.213:20535",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.73.213:20536",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.73.213:20537",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.73.213:20555",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://172.104.73.213:20556",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://173.230.147.186:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://173.230.147.186:4444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://174.138.45.55:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://176.9.47.243:45560",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://177.54.152.154:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://178.217.186.125:3338",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://188.165.235.31:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://194.58.122.146:7910",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://194.58.122.146:9896",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://195.85.215.220:1334",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://198.11.168.132:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://198.11.168.132:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://198.11.168.132:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://198.20.67.78:9171",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://198.23.94.139:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.194.32:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.194.32:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.194.32:18888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.194.32:19999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.194.32:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.213.72:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.213.72:16666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.213.72:18888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.213.72:19999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.213.72:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://207.154.226.213:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:6666",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:7777",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:8443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://212.129.13.124:9999",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://213.239.196.214:55751",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://218.11.0.223:13333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://218.11.0.223:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://35.165.125.37:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://37.19.7.83:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://37.19.7.83:8888",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://37.235.49.165:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://43.229.78.81:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.112.81:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.112.81:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.112.81:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.112.81:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.112.81:81",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.185.251:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.185.251:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.185.251:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.185.251:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.32.185.251:81",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.76.68.6:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.76.68.6:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.76.68.6:8080",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.76.68.6:81",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.79.103.105:14444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.79.103.105:4444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.79.210.48:20580",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://45.79.217.166:20580",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://46.101.212.237:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://46.101.83.30:8008",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://46.105.97.72:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.89.133.41:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.89.133.88:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.89.164.11:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.91.65.135:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.95.126.45:13333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.95.126.45:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.95.166.154:13333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://47.95.166.154:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://5.153.50.217:3353",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://5.189.133.40:4444",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.18.177.202:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.18.177.202:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.19.8.80:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.19.8.80:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.21.154.145:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.21.154.145:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.24.92.255:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.24.92.255:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.2.83.37:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.31.186.94:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.41.235.52:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.74.55.19:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.88.164.98:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://52.88.164.98:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.172.129.105:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.172.129.105:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.172.129.105:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.174.79.55:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.174.79.55:9500",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.131.18:20460",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.131.18:20465",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.131.18:20507",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.17.31:20460",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.17.31:20465",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.209.17.31:20507",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://54.64.97.77:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://5.9.58.111:55751",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.122.75:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.132.209:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.146.151:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.146.217:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.146.222:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://60.205.164.237:25",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://91.121.223.53:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://91.121.73.83:3333",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://95.85.41.125:10000",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://95.85.41.125:443",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://95.85.41.125:80",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    },
+    {
+        "url" : "stratum+tcp://95.85.41.125:9991",
+        "user" : "Bitcoin",
+        "pass" : "x"
+    }
+]
+,
+"intensity" : "13",
+"vectors" : "1",
+"worksize" : "256",
+"kernel" : "scrypt",
+"lookup-gap" : "2",
+"thread-concurrency" : "8192",
+"shaders" : "2048,",
+"gpu-engine" : "0-0",
+"gpu-fan" : "0",
+"gpu-memclock" : "0",
+"gpu-memdiff" : "0",
+"gpu-powertune" : "0",
+"gpu-vddc" : "0.000",
+"temp-cutoff" : "75",
+"temp-overheat" : "85",
+"temp-target" : "65",
+"api-port" : "4028",
+"expiry" : "120",
+"gpu-dyninterval" : "7",
+"gpu-platform" : "0",
+"gpu-threads" : "2",
+"hotplug" : "5",
+"log" : "5",
+"no-pool-disable" : true,
+"queue" : "1",
+"scan-time" : "60",
+"scrypt" : true,
+"temp-hysteresis" : "3",
+"shares" : "0",
+"kernel-path" : "/usr/local/bin"
+}
