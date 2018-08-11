@@ -3,14 +3,14 @@
 In order to verify and reproduce results outlined in the paper, we publicly disclose all our materials including source-codes and datasets. This repository contains following folders:
 
 
-#sMaSheD
-Folder offers database dump including all mining servers, pools, IP addresses, ports and checking history relevant for the end of May 2018 in subfolder `sql`. Moreover, it has a snapshot of the system related to article content in `src` and `zip`.
+# sMaSheD
+This folder offers database dump including all mining servers, pools, IP addresses, ports and checking history relevant for the end of May 2018 in subfolder `sql`. Moreover, it has a snapshot of the system related to article content in `src` and `zip`.
 
-#sMaSheD-devel
+# sMaSheD-devel
 Submodule pointing to the newest version of sMaSheD source-codes.
 
 ## PCAPs and CGMiner
-PCAP files related to development and testing of mining server catalogue. 
+All PCAP files related mostly to a development of mining server catalogue are located in `PCAPs`. The folder `CGMiner` includes mining software configs and outputs employed for testing of sMaSheD results.
 
 ## WEKA-CSV
 CSV files containing feature vectors that are ready for Weka tool.
