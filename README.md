@@ -3,10 +3,10 @@
 In order to verify and reproduce results outlined in the paper, we publicly disclose all our materials including source-codes and datasets. This repository contains following folders:
 
 
-# sMaSheD
+## sMaSheD
 This folder offers database dump including all mining servers, pools, IP addresses, ports and checking history relevant for the end of May 2018 in subfolder `sql`. Moreover, it has a snapshot of the system related to article content in `src` and `zip`.
 
-# sMaSheD-devel
+## sMaSheD-devel
 Submodule pointing to the newest version of sMaSheD source-codes.
 
 ## PCAPs and CGMiner
