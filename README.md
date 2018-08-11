@@ -1,10 +1,16 @@
 # How to Detect Bitcoin Miners? By Traffic Forensics! 
-# Vladimír Veselý, Martin Žádník for Digital Investigation journal
+# Veselý V. & Žádník, M. for Digital Investigation
 In order to verify and reproduce results outlined in the paper, we publicly disclose all our materials including source-codes and datasets. This repository contains following folders:
 
 
-## PCAPs
-PCAP files related to online mining server catalogue
+#sMaSheD
+Folder offers database dump including all mining servers, pools, IP addresses, ports and checking history relevant for the end of May 2018 in subfolder `sql`. Moreover, it has a snapshot of the system related to article content in `src` and `zip`.
+
+#sMaSheD-devel
+Submodule pointing to the newest version of sMaSheD source-codes.
+
+## PCAPs and CGMiner
+PCAP files related to development and testing of mining server catalogue. 
 
 ## WEKA-CSV
 CSV files containing feature vectors that are ready for Weka tool.
