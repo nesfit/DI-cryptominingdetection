@@ -1,0 +1,3 @@
+[submodule "sMaSheD-devel"]
+	path = sMaSheD-devel
+	url = https://github.com/kvetak/sMaSheD

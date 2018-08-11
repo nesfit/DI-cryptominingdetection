@@ -1,8 +1,10 @@
-# DI-cryptominingdetection
+# How to Detect Bitcoin Miners? By Traffic Forensics! 
+# Vladimír Veselý, Martin Žádník for Digital Investigation journal
+In order to verify and reproduce results outlined in the paper, we publicly disclose all our materials including source-codes and datasets. This repository contains following folders:
+
 
 ## PCAPs
-PCAP files and data-sets for Digital Investigation article
-
+PCAP files related to online mining server catalogue
 
 ## WEKA-CSV
 CSV files containing feature vectors that are ready for Weka tool.
@@ -19,8 +21,6 @@ The feature vector consists of the following features in this order:
 7. rst/all - Number of flows with RST flag to all flows
 7. fin/all - Number of flows with FIN flag to all flows
 7. class - miner or notminer
-
-Pre detailny sposob ako sa pocitaju jednotlive agregovane statistiky je najlepsie pozriet zdrojaky:
 
 For futher details on compuation of statistics see:
 https://github.com/CESNET/Nemea-Detectors/blob/master/miner_detector/miner_detector.cpp
