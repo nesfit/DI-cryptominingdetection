@@ -1,5 +1,4 @@
-# How to Detect Bitcoin Miners? By Traffic Forensics! 
-# Veselý V. & Žádník, M. for Digital Investigation
+# How to Detect Bitcoin Miners? By Traffic Forensics! <br/>Veselý V. & Žádník, M. for Digital Investigation
 In order to verify and reproduce results outlined in the paper, we publicly disclose all our materials including source-codes and datasets. This repository contains following folders:
 
 
